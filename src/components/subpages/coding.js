@@ -94,7 +94,7 @@ const Coding= () => {
 									<b>COS 3급 자격증 과정</b>
 									COS는 YBM IT에서 주관하는 코딩활용능력시험입니다.
 								</p>
-								<a href="https://www.ybmit.com/cos/cos_test.jsp" target="_blank">자세히 보기</a>
+								<a href="https://www.ybmit.com/cos/cos_test.jsp" target="_blank" rel="noreferrer">자세히 보기</a>
 							</div>
 						</div>
 					</div>
@@ -116,7 +116,7 @@ const Coding= () => {
 									<b>COS 2급 자격증 과정</b>
 									COS는 YBM IT에서 주관하는 코딩활용능력시험입니다.
 								</p>
-								<a href="https://www.ybmit.com/cos/cos_test.jsp" target="_blank">자세히 보기</a>
+								<a href="https://www.ybmit.com/cos/cos_test.jsp" target="_blank" rel="noreferrer">자세히 보기</a>
 							</div>
 						</div>
 					</div>
@@ -141,7 +141,7 @@ const Coding= () => {
 									이 대회는 과학정보통신기술부에서 주관하는 대회입니다.
 									2022년 최우수상을 수상하였습니다.
 								</p>
-								<a href="https://www.metaversedev.kr/" target="_blank">자세히 보기</a>
+								<a href="https://www.metaversedev.kr/" target="_blank" rel="noreferrer">자세히 보기</a>
 							</div>
 						</div>
 					</div>
@@ -164,7 +164,7 @@ const Coding= () => {
 									<b>COS Pro 3급 자격증 과정</b>
 									COS Pro는 YBM IT에서 주관하는 코딩활용능력시험입니다.
 								</p>
-								<a href="https://www.ybmit.com/cos_pro/cos_pro_info.jsp" target="_blank">자세히 보기</a>
+								<a href="https://www.ybmit.com/cos_pro/cos_pro_info.jsp" target="_blank" rel="noreferrer">자세히 보기</a>
 							</div>
 						</div>
 					</div>

@@ -41,9 +41,8 @@ const Header = () => {
 						<div class="menu-list">
 							
 							<Link to={"/coding"}>커리큘럼</Link>
-							
-							<a href="contact.html">상담 안내</a>
-							<a href="download.html">자료실</a>
+							<Link to={"/contact"}>상담 안내</Link>
+							<Link to={"/download"}>자료실</Link>
 							<a href="https://letscoding.synology.me/mail">학원 이메일</a>
 						</div>
 						

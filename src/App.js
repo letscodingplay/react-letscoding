@@ -8,8 +8,10 @@ import Introduce from "./components/introduce"
 import Location from "./components/location"
 import Header from "./components/header"
 import Footer from "./components/footer"
-import { BrowserRouter as BrowserRouter, Routes, Route } from 'react-router-dom';
-import Coding from './components/curriculums/coding';
+import { BrowserRouter, Routes, Route } from 'react-router-dom';
+import Coding from './components/subpages/coding';
+import Contact from './components/subpages/contact';
+import Download from './components/subpages/download';
 
 function App() {
   return (
@@ -17,6 +19,8 @@ function App() {
       <BrowserRouter>
         <Routes>
           <Route path="/coding" element={<Coding />}></Route>
+          <Route path="/contact" element={<Contact />}></Route>
+          <Route path="/download" element={<Download />}></Route>
         </Routes>
 						
         <header>

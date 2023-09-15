@@ -13,7 +13,7 @@ function Kakao(){
             level: 3
         }
         const map = new kakao.maps.Map(container, options);
-        var marker = new kakao.maps.Marker({ 
+        const marker = new kakao.maps.Marker({ 
             // 지도 중심좌표에 마커를 생성합니다 
             position: map.getCenter() 
         }); 
